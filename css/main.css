@@ -1,3 +1,128 @@
-/*
- * Estilos de tu proyecto
- */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.clear {
+  clear: both;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+footer > img {
+  width: 100%;
+}
+
+header > div > .cuadro {
+font-size: 20px;
+outline: 1px solid pink;
+}
+
+header > div > .menu-item {
+  font-size: 20px;
+}
+
+header > div > img {
+  width: 60px;
+}
+
+header > div > a {
+  margin: 50px 40px;
+}
+
+#phone >img {
+  width: 300px;
+}
+
+#seccion-1 > img {
+width: 100%;
+position: relative;
+}
+
+#text-1 {
+  margin: 20px;
+  display: inline-block;
+  border: 20px;
+  position: absolute;
+  top: 260px;
+  right: -12px;
+  background-color: white;
+  padding: 114px;
+  color: #352384;
+}
+
+.boton-rosa {
+  background-color: #FF00BF;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+  margin: 20px 70px;
+  padding: 12px 0px;
+  border-radius: 5px;
+  margin-left: -1px;
+  margin-right: 155PX;
+}
+
+.subrayado {
+  margin-left: 202px;
+  margin-top: -55px;
+  font-weight: 300;
+}
+
+.rosas {
+  color: #FF00BF;
+
+}
+
+#seccion-1 > div > p {
+  font-size: 10px;
+}
+
+.right {
+  margin-left: 85px;
+  margin-top: -25px;
+}
+
+.right-2 {
+  margin-left: 200px;
+  margin-top: -24px;
+}
+
+.text-2 {
+  background-color: #76278F;
+  color: white;
+  margin: -7px;
+  display: inline-block;
+  padding: 45px 70px;
+
+}
+
+.font {
+  font-weight: 300;
+}
+
+#phone >img {
+  background-color: #76278F;
+  padding: 35px;
+  display: inline-block;
+  margin-left: 745px;
+  margin-top: -513px;
+  width: 35%;
+}
+
+#seccion-3 {
+  padding: 55px;
+  margin-top: -12px;
+
+}
+
+.video {
+   margin-left: 660px;
+   margin-top: -340px;
+}
